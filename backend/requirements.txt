@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+google-generativeai
+python-docx
+pypdf
+google-auth
+requests
+python-dotenv
